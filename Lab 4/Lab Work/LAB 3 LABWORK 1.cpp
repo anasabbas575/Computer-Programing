@@ -1,8 +1,7 @@
-// Name: Adnan Ahmad 
-// Department: Electrical Engineering (POWER)
-// Registration No: BF25NWELE0744
+// Name: Anus Abbas Khan
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0723
 // Section: A
-
 
 #include <iostream>
 using namespace std;
@@ -50,3 +49,4 @@ default:
 
 return 0;
 }
+

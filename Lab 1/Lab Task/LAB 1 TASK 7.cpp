@@ -1,7 +1,7 @@
-// Name: Abdul Ahad
-// Department: Electrical Engineering (AI)
-// Registration No: BF25NWELE0692
-// Section: B
+// Name: Anus Abbas Khan
+// Department: Electrical Engineering (power)
+// Registration No: BF25NWELE0723
+// Section: A
 
 
 #include <iostream>// include library for input and output
@@ -15,4 +15,5 @@ int main()// it is sttarting point of program
     
     return 0;   // indicate that program ended successfully
     } // end function main
+
 

@@ -1,5 +1,5 @@
-// Name: Anus Abbas KHan
-// Department: Electrical Engineering (AI)
+// Name: Anus Abbas Khan
+// Department: Electrical Engineering (power)
 // Registration No: BF25NWELE0723
 // Section: A
 
@@ -16,3 +16,4 @@ int main()// it is sttarting point of program
 
 
 }
+

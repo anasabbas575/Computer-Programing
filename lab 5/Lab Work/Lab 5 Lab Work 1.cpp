@@ -1,6 +1,6 @@
-// Name: Shahzad faisal
+// Name: Anus Abbas Khan 
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
+// Registration No: BF25NWELE0723
 // Section: A
 
 #include <iostream>     // Library used for input and output

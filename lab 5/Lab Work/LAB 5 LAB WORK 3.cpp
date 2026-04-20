@@ -1,6 +1,6 @@
-// Name: M.Younas Khan
+// Name: Anus Abbas Khan 
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0741
+// Registration No: BF25NWELE0723
 // Section: A
 #include <iostream>
 using namespace std;

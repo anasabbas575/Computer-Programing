@@ -1,8 +1,7 @@
-// Name: Shahzad faisal
+// Name: Anus Abbas Khan
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0733
+// Registration No: BF25NWELE0723
 // Section: A
-
 #include <iostream>   // Input aur output ke liye library
 using namespace std;  // std namespace use karne ke liye (cin, cout directly use kar sakte hain)
 
